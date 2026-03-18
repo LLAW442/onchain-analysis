@@ -1,0 +1,5 @@
+thresholds:
+  whale_eth: 100
+
+data:
+  save_path: data/processed/transactions.csv
