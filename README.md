@@ -26,3 +26,16 @@ Built with a scalable microservices architecture using:
 - PostgreSQL (storage)
 - Redis/Kafka (stream processing)
 - Docker (deployment)
+
+###########################################################################
+
+## Features
+- Fetch Ethereum transactions
+- Detect whale activity
+- Simple dashboard
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+cp .env.example .env
